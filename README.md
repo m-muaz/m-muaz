@@ -1,3 +1,5 @@
+Hi :) Feel free to reach me @ m.muaz@utexas.edu or via [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadmuaz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/its_muazizzm) 
+<!--
 # 💫 About Me:
 🌱 I’m currently learning about Generative AI (Diffusion Models), 3D Vision (Gaussian Splatting, NeRF) etc.<br>💬 Feel free to reach out and ask anything<br>⚡ I love watching comedy skits, hiking and good food
 
@@ -15,10 +17,11 @@
 <!---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m-muaz&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-muaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
---->
+-->
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=m-muaz&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
